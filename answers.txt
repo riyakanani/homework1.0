@@ -1,0 +1,3 @@
+What is a remote repository?
+a remote repository is stored on a server which is contrasted to a local repository which is stored on your computer.
+ 
